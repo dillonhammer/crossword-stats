@@ -1,0 +1,7 @@
+{
+  "name": "crossword-stats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dillon Hammer",
+  "license": "MIT"
+}
