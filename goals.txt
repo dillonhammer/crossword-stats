@@ -1,0 +1,12 @@
+=== For Now ===
+X Scrape full-size crosswords for past month
+Average time-to-fill by square for non-Sundays
+- Make type for puzzle data
+- Exclude cases where square is black
+- represent with color
+
+=== For Later ===
+Clean up monthly format (flatten it)
+Join puzzle data by ID to get author, other metadata
+Longer time frame
+Minis
